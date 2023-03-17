@@ -1,0 +1,11 @@
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/obj/Debug/net7.0/donguler-while-foreach.csproj.AssemblyReference.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/obj/Debug/net7.0/donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/obj/Debug/net7.0/donguler-while-foreach.AssemblyInfoInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/obj/Debug/net7.0/donguler-while-foreach.AssemblyInfo.cs
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/obj/Debug/net7.0/donguler-while-foreach.csproj.CoreCompileInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/bin/Debug/net7.0/donguler-while-foreach
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/bin/Debug/net7.0/donguler-while-foreach.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/bin/Debug/net7.0/donguler-while-foreach.pdb
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/obj/Debug/net7.0/donguler-while-foreach.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/obj/Debug/net7.0/refint/donguler-while-foreach.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-while-foreach/obj/Debug/net7.0/donguler-while-foreach.pdb
